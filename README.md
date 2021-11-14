@@ -46,7 +46,7 @@ Home
 #### Screenshot(s) van de tweede pagina (small screen):
 Menu
  
- <img src="images/dummy-plaatje.jpg" width="375px" alt="sweetgreen website ">
+ <img src="images/IMG_0881.PNG" width="375px" alt="sweetgreen website ">
  
 </details>
 
