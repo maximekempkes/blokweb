@@ -41,7 +41,7 @@ https://www.sweetgreen.com
 #### Screenshot(s) van de eerste pagina (small screen): 
 Home
  
-<img src="images/Screen Shot 2021-11-14 at 16.03.56" width="375px" alt="sweetgreen website">
+<img src="images/dummy-plaatje.jpg" width="375px" alt="sweetgreen website">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Menu
