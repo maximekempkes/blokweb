@@ -39,13 +39,13 @@ responsive en surface
 https://www.sweetgreen.com
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-
+Sweetgreen
 <img src="images/Screen Shot 2021-11-14 at 16.03.56" width="375px" alt="sweetgreen website">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/Screen Shot 2021-11-14 at 16.03.37" width="375px" alt="sweetgreen website ">
+Sweetgreen
+ 
+ <img src="images/Screen Shot 2021-11-14 at 16.03.37" width="375px" alt="sweetgreen website ">
  
 </details>
 
