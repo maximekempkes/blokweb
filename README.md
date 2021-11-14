@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 Maxime Kempkes 
 
 #### Je startniveau:
-rood/zwart
+rood
 
 #### Je focus:
-responsive en surface
+responsive 
  
 </details>
 
