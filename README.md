@@ -18,8 +18,8 @@ Maxime Kempkes
 
 #### Je startniveau:
 
-rood/zwart
-
+blauw
+  
 #### Je focus:
 
 responsive en surface
