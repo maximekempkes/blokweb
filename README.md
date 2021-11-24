@@ -75,7 +75,9 @@ Menu
 
 ### Stand van zaken
 
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik ben de afgelopen weken veel bezig geweest met Frontend. Dit is helemaal niet erg want ik vind het leuk en had het natuurlijk verwacht. Omdat het weer een tijd geleden was dat ik had gecodeerd  duurde het wel weer even voordat ik er weer een beetje in zat. In het begin heb ik heel veel zitten uitproberen. Meerdere keren de hele site verwijdert en opnieuw begonnen. Dit komt omdat ik heel visueel ben. Bepaalde onderdelen duurde daarom ook langer dan nodig was. Ik wilde dan dat het er gelijk op de website lijkt die ik aan het nacoderen ben maar dat is niet realistisch. Ik heb dat gelukkig los kunnen laten. Nu gaat het beter..het begint ook een beetje op de website te lijken maar er moet nog aardig wat aan gedaan worden.  Ik heb ook al een aantal pogingen gedaan om een responsive menu te maken maar dat lukte nog niet. Maar dat komt zeker goed. 
+  
+  <img src="images/Voortgang1" width="375px" alt="voortgang week 1">
 
 ### Agenda voor meeting
 
