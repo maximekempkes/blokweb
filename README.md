@@ -18,8 +18,8 @@ Maxime Kempkes
 
 #### Je startniveau:
 
-blauw
-  
+rood/zwart
+
 #### Je focus:
 
 responsive en surface
@@ -39,7 +39,7 @@ https://www.sweetgreen.com
 
 Home
 
-<img src="images/IMG_0880.PNG" width="375px" alt="sweetgreen website">
+<img src="images/dummy-plaatje.jpg" width="375px" alt="sweetgreen website">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 
