@@ -83,12 +83,12 @@ Ik ben de afgelopen weken veel bezig geweest met Frontend. Dit is helemaal niet 
 
 samen met je groepje opstellen
 
-| student 1: Maxime      | student 2: Donna          | student 3: Rick    | student 4: Tatum        | student 4: Angelo        |
-| ---------------------- | ------------------------- | ------------------ | ----------------------- |------------------------- |
-| op zich gaat het goed  | moeite met het vak        | en ik dit          | en dan ik dat           |
-| alleen moeite met code | loopt een beetje achter   | nog een punt       | dit wil ik zeker        |
-| loop ook vast met h1   | hamburgermenu bespreken   | ...                | ...                     |
-| en h2.
+| student 1: Maxime      | student 2: Donna          | student 3: Rick                | student 4: Tatum          | student 4: Angelo        |
+| ---------------------- | ------------------------- | -------------------------------| ------------------------- |------------------------- |
+| op zich gaat het goed  | moeite met het vak        | Ik heb ook moeite met het vak  | Ik heb nog niet iets waar |
+| alleen moeite met code | loopt een beetje achter   | loop nog best wel ver achter   | waar ik tegenaan loop maar|
+| loop ook vast met h1   | hamburgermenu bespreken   |  maar voor derest gaat het wel.| moet nog wel veel doen dus|
+| en h2.                 |                           |                                | loop wel achter.
 
 ### Verslag van meeting
 
