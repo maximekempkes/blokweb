@@ -2,8 +2,16 @@ html {
   display: block;
 }
 
-*, *::after, *::before {
-  box-sizing:border-box;  
+*,
+
+*::after,
+
+*::before {
+
+box-sizing: border-box;
+
+font-family:sweet-sans-pro, sans-serif;
+
 }
 
 /* ALGEMENE CUSTOM PROPERTIES */
@@ -17,16 +25,53 @@ html {
 body {
   margin:0;
   background-color:var(--background-color);
-  font-family: SweetSansText,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;   
   color:var(--main-color);
 }
 
+/* HEADER */
+
+
+
+nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+header button{
+  height: 1em;
+}
+
+  span {
+		position: absolute;
+		display: block;
+		width: 1em;
+		height: .1em;
+		background-color: #0e150e;
+		border-radius: 1px;
+		transition: all 0.2s cubic-bezier(0.1, 0.82, 0.76, 0.965);
+}
+
+header img {
+  height: 1.2em;
+  width: auto;
+  margin: .8em;
+  
+}
+
+header a {
+  text-transform: uppercase;
+  text-decoration-line: none;
+  color: #0e150e;
+  height: 1.2em;
+  
+  
+}
 /* MAIN */
 
 /* SECTION 1 */
 
 section:nth-of-type(1) img {
-  height: 32em;
+  height: 40em;
   object-fit: cover;
   object-position: center;
   width: 23.4em;
@@ -35,22 +80,27 @@ section:nth-of-type(1) img {
 section:nth-of-type(1) h1 {
   text-transform: uppercase;
   position: absolute;
-  top: 40%;
+  top: 57%;
   left: 3%;
   color: white;
+  font-weight: 300;
+  font-size: 1em;
+
 }
 
 section:nth-of-type(1) h2 {
   position: absolute;
-  top: 42%;
+  top: 60%;
   left: 3%;
   color: white;
   font-size: 2em;
+  padding-right: 2.5em;  
 }
 
 section:nth-of-type(1) button {
   position: absolute;
-    top: 57%;
+  width: 18em;
+    top: 73%;
     left: 3%;
     background-color: #E6FF55;
     color: #00473C;
@@ -60,6 +110,9 @@ section:nth-of-type(1) button {
     border-radius: 3em;
     font-size: .8em;
     border: none;
+    font-family: SweetSansText,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: normal;
+    margin-top: 2em;
 }
 
 /* SECTION 2 */
@@ -72,7 +125,7 @@ section:nth-of-type(2) div {
   margin-bottom: 0;
   align-content: center;
   text-align: center;
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 
 
@@ -80,7 +133,7 @@ section:nth-of-type(2) div img {
   border-radius: 2rem;
   height: 18em;
   width: 18em;
-  padding:1em;
+  margin-left:.8em;
   display: flex;
   justify-content: center;
 }
@@ -114,11 +167,14 @@ section:nth-of-type(3) {
 section:nth-of-type(3) h1 {
   text-transform: uppercase;
   padding:1em;
+  font-size: 1em;
 }
 
 section:nth-of-type(3) h2 {
-  text-transform: uppercase;
-  padding-left: 1em;
+  padding-left:.6em;
+  padding-right: 2em;
+  font-size: 2em;
+  margin: 0em;
 }
 
 section:nth-of-type(3) p {
@@ -127,18 +183,17 @@ section:nth-of-type(3) p {
 }
 
 section:nth-of-type(3) img {
-  width: 20em;
+  width: 22em;
+  
 }
 
 
 section:nth-of-type(3) button {
     background-color: #E6FF55;
     color: #00473C;
-    line-height: 1;
     padding: 0.9375em 3.75em 0.8125em;
     text-transform: uppercase;
     border-radius: 3em;
-    font-size: .7em;
     border: none;
     margin-left: 1em;
 }
@@ -148,7 +203,9 @@ section:nth-of-type(3) button {
 section:nth-of-type(4) h1 {
   text-transform: uppercase;
   padding:1em;
+  font-size: 1em;
 }
+
 
 /* SECTION 5 */
 
@@ -159,12 +216,13 @@ section:nth-of-type(5) {
 section:nth-of-type(5) h1 {
   text-transform: uppercase;
   padding:1em;
-  font-size: .8em;
+  font-size: 1em;
 }
 
 section:nth-of-type(5) h2 {
   font-size: 2em;
-  padding-left: 1em;
+  padding-left: .7em;
+  margin: 0;
 }
 
 section:nth-of-type(5) p {
@@ -175,7 +233,7 @@ section:nth-of-type(5) p {
 section:nth-of-type(5) button {
   background-color:transparent;
   color: #00473C;
-  line-height: 1;
+  width: 20em;
   padding: 0.9375em 3.75em 0.8125em;
   text-transform: uppercase;
   border-radius: 3em;
@@ -199,7 +257,7 @@ section:nth-of-type(6) {
   }
 
 section:nth-of-type(6) img {
-  height: 32em;
+  height: 45em;
   object-fit: cover;
   object-position: center;
   width: 23.4em;
@@ -213,12 +271,14 @@ section:nth-of-type(6) h1 {
 
 section:nth-of-type(6) h2 {
   text-transform: uppercase;
-  padding-left: 1em;
+  padding-left: .7em;
 }
 
 section:nth-of-type(6) p {
   letter-spacing: .03em;
+  padding-bottom: 1em;
   padding-left: 1em;
+  margin: 0;
 }
 
 section:nth-of-type(6) button {
@@ -236,7 +296,7 @@ text-decoration: underline;
 section:nth-of-type(7) h1 {
   text-transform: uppercase;
   padding:1em;
-  font-size: .9em;
+  font-size: 1em;
 }
 
 section:nth-of-type(7) p {
@@ -250,7 +310,7 @@ section:nth-of-type(7) input {
     border-radius: 0.625rem;
     font-size: 1em;
     padding: 0.75rem 1rem;
-    width: 100%;
+    width: 20em;
     margin: 1em;
     color: #00473C;
 }
@@ -260,6 +320,7 @@ section:nth-of-type(8) h1 {
   text-transform: uppercase;
   padding:1em;
   font-size: 1.2em;
+  margin: 0;
 }
 
 section:nth-of-type(8) div a {
