@@ -75,20 +75,17 @@ Menu
 
 ### Stand van zaken
 
-Ik ben de afgelopen weken veel bezig geweest met Frontend. Dit is helemaal niet erg want ik vind het leuk en had het natuurlijk verwacht. Omdat het weer een tijd geleden was dat ik had gecodeerd  duurde het wel weer even voordat ik er weer een beetje in zat. In het begin heb ik heel veel zitten uitproberen. Meerdere keren de hele site verwijdert en opnieuw begonnen. Dit komt omdat ik heel visueel ben. Bepaalde onderdelen duurde daarom ook langer dan nodig was. Ik wilde dan dat het er gelijk op de website lijkt die ik aan het nacoderen ben maar dat is niet realistisch. Ik heb dat gelukkig los kunnen laten. Nu gaat het beter..het begint ook een beetje op de website te lijken maar er moet nog aardig wat aan gedaan worden.  Ik heb ook al een aantal pogingen gedaan om een responsive menu te maken maar dat lukte nog niet. Maar dat komt zeker goed. 
-  
-  <img src="images/Voortgang1" width="375px" alt="voortgang week 1">
+hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 ### Agenda voor meeting
 
 samen met je groepje opstellen
 
-| student 1: Maxime      | student 2: Donna          | student 3: Rick                | student 4: Tatum          | student 4: Angelo        |
-| ---------------------- | ------------------------- | -------------------------------| ------------------------- |------------------------- |
-| op zich gaat het goed  | moeite met het vak        | Ik heb ook moeite met het vak  | Ik heb nog niet iets waar |css niet werkt via github |
-| alleen moeite met code | loopt een beetje achter   | loop nog best wel ver achter   | waar ik tegenaan loop maar|
-| loop ook vast met h1   | hamburgermenu bespreken   |  maar voor derest gaat het wel.| moet nog wel veel doen dus|
-| en h2.                 |                           |                                | loop wel achter.
+| student 1      | student 2          | student 3    | student 4        |
+| -------------- | ------------------ | ------------ | ---------------- |
+| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| ...            | ...                | ...          | ...              |
 
 ### Verslag van meeting
 
@@ -220,6 +217,6 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
 1. bron 1
 2. bron 2
-3. ... 
+3. ...
 
 </details>
