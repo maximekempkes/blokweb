@@ -75,17 +75,17 @@ Menu
 
 ### Stand van zaken
 
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik ben de afgelopen weken veel bezig geweest met Frontend. Dit is helemaal niet erg want ik vind het leuk en had het natuurlijk verwacht. Omdat het weer een tijd geleden was dat ik had gecodeerd  duurde het wel weer even voordat ik er weer een beetje in zat. In het begin heb ik heel veel zitten uitproberen. Meerdere keren de hele site verwijdert en opnieuw begonnen. Dit komt omdat ik heel visueel ben. Bepaalde onderdelen duurde daarom ook langer dan nodig was. Ik wilde dan dat het er gelijk op de website lijkt die ik aan het nacoderen ben maar dat is niet realistisch. Ik heb dat gelukkig los kunnen laten. Nu gaat het beter..het begint ook een beetje op de website te lijken maar er moet nog aardig wat aan gedaan worden.  Ik heb ook al een aantal pogingen gedaan om een responsive menu te maken maar dat lukte nog niet. Maar dat komt zeker goed. 
 
 ### Agenda voor meeting
 
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| -------------- | ------------------ | ------------ | ---------------- |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| student 1: Maxime   | student 2: Donna      | student 3: Angelo    | student 4: Rick        | student 4: Tatum        |
+| --------------------| ----------------------| ---------------------| -----------------------|-------------------------|
+| gaat goed alleen    | moeite met het vak    | css werkt            | moeite en loop achter  |nog niet waar ik tegen   |
+| de h1 en h2         | loop een beetje achter| niet via             | maar voorderest wel oke|aan loop maar loop wel   |
+| pakken de font niet | hamburger bespreken   | github               |                        |achter                   |
 
 ### Verslag van meeting
 
