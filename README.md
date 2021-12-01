@@ -60,7 +60,7 @@ Menu
 
 ### dynamisch deel (bijv menu):
 
-<img src="images/interactieve1" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/interactieve1.png" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter):
 
