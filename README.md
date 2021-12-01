@@ -77,7 +77,7 @@ Menu
 
 Ik ben de afgelopen weken veel bezig geweest met Frontend. Dit is helemaal niet erg want ik vind het leuk en had het natuurlijk verwacht. Omdat het weer een tijd geleden was dat ik had gecodeerd  duurde het wel weer even voordat ik er weer een beetje in zat. In het begin heb ik heel veel zitten uitproberen. Meerdere keren de hele site verwijdert en opnieuw begonnen. Dit komt omdat ik heel visueel ben. Bepaalde onderdelen duurde daarom ook langer dan nodig was. Ik wilde dan dat het er gelijk op de website lijkt die ik aan het nacoderen ben maar dat is niet realistisch. Ik heb dat gelukkig los kunnen laten. Nu gaat het beter..het begint ook een beetje op de website te lijken maar er moet nog aardig wat aan gedaan worden.  Ik heb ook al een aantal pogingen gedaan om een responsive menu te maken maar dat lukte nog niet. Maar dat komt zeker goed. 
   
-  <img src="images/Voortgang1.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/Voortgang1.png" width="375px" alt="Voortgang1">
 
 ### Agenda voor meeting
 
@@ -110,7 +110,7 @@ De meeting was super waardevol. Ik had zelf niet veel waar ik tegenaan liep maar
 Ik heb deze keer een hele grote sprint gemaakt..mijn eerste pagina is bijna af. Ik mis 1 onderdeel. Het is niet veel werk maar ik stel dat steeds uit. Ik heb al wat animaties verwerkt. Omdat mijn content op een mobiel wordt weergeven kan ik hover niet gebruiken dus ben ik aan het googlen hoe ik animaties zonder hover kan gebruiken. 
 IK moet ook mijn code netjes maken. Op dit moment is het chaos en niet geordend. IK heb 1 onderdeel waar ik. Nu tegenaan loop en dat is dat mijn header niet een background-color wil pakken. 
 
- <img src="images/Voortgang 2.png" width="375px" alt="breakdown van de hele pagina">
+ <img src="images/Voortgang 2.png" width="375px" alt="Voortgang2">
   
 ### Agenda voor meeting
 
