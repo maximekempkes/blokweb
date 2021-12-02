@@ -117,10 +117,10 @@ IK moet ook mijn code netjes maken. Op dit moment is het chaos en niet geordend.
 samen met je groepje opstellen
 
 | student 1: Maxime      | student 2: Donna          | student 3: Angelo    | student 4: Rick        |student 4: Tatum        |
-| -----------------------| --------------------------| ---------------------| ---------------------- |
-| gaat goed, alleen      | en dit                    | en ik dit            | en dan ik dat          |
-| weerkt background-     | dit als er tijd is        | nog een punt         | dit wil ik zeker       |
-| color niet             | ...                       | ...                  | ...                    |
+| -----------------------| --------------------------| ---------------------| ---------------------- |------------------------|
+| gaat goed, alleen      | eerste pagina af          | nav verstoppen       | en dan ik dat          |Eerste pagina af, alleen|
+| werkt  background-     | wel wat problemen met de  | animeren             | dit wil ik zeker       |responsive maken        |
+| color nog niet         | tweede                    | spacing              | ...                    |Nog beginnen met 2e     |
 
 ### Verslag van meeting
 
