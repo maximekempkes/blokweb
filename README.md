@@ -253,7 +253,6 @@ Laatste paar dagen voor de deadline waren toch nog stressvol. Ik heb nog hulp in
 <details open>
 <summary>continu bijhouden terwijl je werkt</summary>
 
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
 1. https://www.youtube.com/watch?v=yCyD5AZegLk
 2. https://codepen.io/denic/pen/GRoOxbM?editors=0100
