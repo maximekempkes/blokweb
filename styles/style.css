@@ -437,13 +437,11 @@ section:nth-of-type(3) img {
   padding: 1em;
 }
 
-/* animate items staan standaard verborgen   */
 .animate {
   opacity: 0;
   transition: opacity 1s ease-in;
 }
 
-/* wanneer de observer de class er op zet wordt deze weer zichtbaar */
 .animate.fade {
   opacity: 1;
   
@@ -971,6 +969,24 @@ footer p:first-of-type {
   padding-left: 6em;
   padding-right: 3em;
   text-align: left;
+  text-decoration: none;
+  color: var(--text-color2);
+}
+
+.mainbody section:nth-of-type(4) a:hover {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.mainbody section:nth-of-type(4) a:focus {
+  border: var(--accent-color1) 1em; 
+  padding: .3em;
+  transition: .5s;
+}
+
+.mainbody section:nth-of-type(4) a:active {
+  color:var(--accent-color2);
+  transition: .5s;
 }
 
 /*************************/ 
@@ -1038,9 +1054,25 @@ footer p:first-of-type {
   color: #0e150e;
   text-transform: none;
   font-weight: normal;
+  margin-left: 0;
 }
 
+.mainbody section:nth-of-type(6) a:hover {
+  font-weight: bold;
+  text-decoration: underline;
+  background-color: transparent;
+}
 
+.mainbody section:nth-of-type(6) a:focus {
+  border: var(--accent-color1) 1em; 
+  padding: .3em;
+  transition: .5s;
+}
+
+.mainbody section:nth-of-type(6) a:active {
+  color:var(--accent-color2);
+  transition: .5s;
+}
 
 /*************************/ 
 /* SECTION 7 */
@@ -1056,7 +1088,6 @@ justify-content: center;
 
 }
 
-/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
   background-color: transparent;
   width: 20em;
@@ -1065,7 +1096,6 @@ justify-content: center;
 
 }
 
-/* This container is needed to position the front and back side */
 .flip-card-inner {
   width: 20em;
   height: 25em;
@@ -1075,32 +1105,27 @@ justify-content: center;
 
 }
 
-/* Do an horizontal flip when you move the mouse over the flip box container */
 .flip-card:hover .flip-card-inner {
   transform: rotateY(180deg);
 
 
 }
 
-/* Position the front and back side */
 .flip-card-front 
   , .flip-card-back {
   position: absolute;
   width: 20em;
   height: 25em;
-
   -webkit-backface-visibility: hidden; Safari
 
 }
 
-/* Style the front side (fallback if image is missing) */
 .flip-card-front {
   background-color:var(--background-accent2);
   border-radius: 1em;
 
 }
 
-/* Style the back side */
 .flip-card-back {
   background-color:var(--background-accent2);
   color:var(--text-color2);
