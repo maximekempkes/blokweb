@@ -18,11 +18,11 @@ Maxime Kempkes
 
 #### Je startniveau:
 
-blauw
+Blauw
 
 #### Je focus:
 
-surface (misschien responsive)
+Surface 
 
 </details>
 
@@ -118,18 +118,17 @@ samen met je groepje opstellen
 
 | student 1: Maxime      | student 2: Donna          | student 3: Angelo    | student 4: Rick        |student 4: Tatum        |
 | -----------------------| --------------------------| ---------------------| ---------------------- |------------------------|
-| gaat goed, alleen      | eerste pagina af          | nav verstoppen       | en dan ik dat          |Eerste pagina af, alleen|
-| werkt  background-     | wel wat problemen met de  | animeren             | dit wil ik zeker       |responsive maken        |
+| gaat goed, alleen      | eerste pagina af          | nav verstoppen       |             ...        |Eerste pagina af, alleen|
+| werkt  background-     | wel wat problemen met de  | animeren             | ...                    |responsive maken        |
 | color nog niet         | tweede                    | spacing              | ...                    |Nog beginnen met 2e     |
 
 ### Verslag van meeting
 
-hier na afloop snel de uitkomsten van de meeting vastleggen
+Dit was de eerste keer dat we een voortgangsgesprek hadden met Vasilis. Hij was tevreden mte mijn werk en had aangegevn dat ik alvast aan de slag kon met de states..eerst wil ik mijn code op orde krijgen want op dit moment is het chaos.
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Code op orde krijgen
+- Begin maken aan states
+- Op zoek gaan naar uitdagingen
 
 </details>
 
@@ -140,31 +139,65 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Bevindingen
 
-Lijst met je bevindingen die in de test naar voren kwamen:
+Toegankelijkheidstest
 
-#### Titel eerste bevinding
 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Tijdens de laatste werkgroep zijn we aan de slag gegaan met toegankelijkheid. 
+In de werkgroep gaan we elkaars sites gebruiken en testen door onder andere een toegankelijkheidsbril. 
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Screenreader
+Voor de screenreader heb ik ook mijn scherm uitgeschakeld waardoor ik daadwerkelijk niks kon zien…Het navigeren naar de site was erg ingewikkeld en lukte uiteindelijk niet. Ik heb toen nog wel even gekeken hoe ik er kwam en heb het daarna wel met de screenreader gedaan. 
 
-#### Titel tweede bevinding.
+Wat mij opviel was dat hij letterlijk alles voorleest wat ik vervelend vond maar dat is natuurlijk essentieel. Ik was wel erg trots dat alle alt tags van de foto’s klopten.. Wel deed hij hij bij de tweede section het niet helemaal goed. Hij herhaalde de tekst 2 keer dus moet ik even kijken waar het verkeerd is gegaan. Ook las hij de label van de input niet op want die had ik niet en die wil ik wel toevoegen. Dus dat soort kleine elementen wil ik wel aanpassen.
 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Tab: Met de tab toets ging het navigeren wel maar niet heel soepel dus daar wil ik een keer naar kijken. Hij slaat af en toe elementen over en ik weet niet waarom die dat doet.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Elastiekjes: De site heeft niet hele kleine of onmogelijke knoppen dus het is gewoon te doen. Ook zijn er niet hele interactieve elementen..dus die heeft niet zoveel invloed.
 
-#### Titel volgende bevinding.
+Spasmes/Parkinson: Het is een vervelend gevoel maar ook dit is gewoon te doen. De website navigeren lukt ook gewoon…Hier weer niet heel veel interactieve elementen..
 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Gele lenzen: Hier is alles vooral te zien met een gele tint. Gelukkig hebben de kleuren niet veel invloed dus hier hoeven er geen aanpassingen te komen.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Blur/glare: Ik zie niks..of niet helemaal niets maar het is lastig. De grote headings zijn wel te zien maar ik kan niet alle headings veel groter doen. Want dan is er geen visuele onderscheidingen. De muis is moeilijk te zien dus is het wel fijn dat alles waar je overheen tovert groter wordt dus dit wil ik meer gebruiken
 
-#### Titel nog een bevinding.
+Low contrast: Lijkt blur veel op blur dus hier gelden dezelfde redenen en aanpassingen.
 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Hemi field: Geen last van..website is gewoon te navigeren. Duurt alleen wat langer..
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Combined Loss Diabetic Eye Disease Peripheral field loss: Vervelend maar wel te doen..hier kost het toch meer tijd en aandacht.
+
+Central field loss: Dit vind ik wel erg lastig . Ik zou niet gelijk weten hoe ik dit kan oplossen maar wil wel kijken hoe dit zou kunnen.
+
+Ballon: Het was in principe gewoon te doen want er zijn niet hele drukke elementen op de site maar de label element wil ik wel aanpassen bij de form. Maar dit wilde ik al doen na de screenreader.
+
+Conclusie & aanbevelingen
+Over het algemeen heel veel geleerd en ook veel wat ik wil geen aanpassen. Ik wil vooral de kleine elementen waar je zelf snel overheen kijkt als je geen beperking hebt. Na de les heb ik toch nieuwe inzichten waar ik dan echt naar wil kijken. Ik ga ook wat research doen online hoe ik me beter kan verdiepen.
+Maar de concrete aanbevelingen zijn:
+- Label bij formulieren
+- Duidelijke states
+- Dikkere font weight
+- Grote buttons
+
+#### Label bij formulieren
+
+Tijdens de toegankelijkheid testen viel het mij op dat tijdens de screenreader dat ik ging label had bij mijn input.Als ik wil dat iedereen gebruik kan maken van de site moet hier verandering in komen.
+
+Dit is makkelijk opgelost..ik moet een label toevoegen.
+  
+   <img src="images/label.png" width="375px" alt="Label">
+
+#### Duidelijke states
+
+Ik had verschillende states ontworpen maar die waren niet duidelijk genoeg.
+
+Ik ga op zoek naar andere websites en kijken hoe zij dit aanpakken want ik vind het lastig om goede states te ontwerpen waar iedereen gebruik van kan maken.
+  <img src="images/states.png" width="375px" alt="States">
+
+#### Button en font
+
+De website was te navigeren maar het kon iets beter. Met name de tekst dikte en knop grote.
+
+Ik ga hiervoor gewoon een grotere padding toevoegen en een dikkere font weight.
 
 </details>
 
@@ -175,8 +208,8 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 
 ### Stand van zaken
 
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Laatste keer met student assitenten..de website is zo goed als klaar maar er waren nog kleine dingen waar ik hulp voor nodig had. Ik heb een lijstje gemaakt zodat het duidelijk was voor hun wat ik wilde. Ik wil ook advies vragen want heb het idee dat mijn website niet goed genoeg is.
+  
 ### Agenda voor meeting
 
 samen met je groepje opstellen
