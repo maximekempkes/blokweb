@@ -191,6 +191,7 @@ Dit is makkelijk opgelost..ik moet een label toevoegen.
 Ik had verschillende states ontworpen maar die waren niet duidelijk genoeg.
 
 Ik ga op zoek naar andere websites en kijken hoe zij dit aanpakken want ik vind het lastig om goede states te ontwerpen waar iedereen gebruik van kan maken.
+  
   <img src="images/states.png" width="375px" alt="States">
 
 #### Button en font
@@ -214,20 +215,19 @@ Laatste keer met student assitenten..de website is zo goed als klaar maar er war
 
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| -------------- | ------------------ | ------------ | ---------------- |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+
+| student 1: Maxime      | student 2: Donna          | student 3: Angelo    | student 4: Rick        |student 4: Tatum        |
+| -----------------------| --------------------------| ---------------------| ---------------------- |------------------------|
+| vraag over header      | loop niet vast maar moet  | ...                  |             ...        |twee pagina's af, loop  |
+| cards en optimaliseren | naar focus state kijken   |                      |                        |nergens tegen aan       |
+
 
 ### Verslag van meeting
 
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Er waren vrij weinig vragen..alleen Donna en ik hadden hulp nodig en die hadden we gekregen. Ik kon daarmee goed op weg en kon aan de slag met de laatste dingen voor de deadline.
+  
+- Alle vragen beanwtoord
+- Kon door met de opdracht
 
 </details>
 
@@ -238,11 +238,13 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Stand van zaken
 
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Laatste paar dagen voor de deadline waren toch nog stressvol. Ik heb nog hulp in moeten schakelen van de student-assitent wat ik enorm waarderde. Ik was eigenlijk op zaterdag klaar maar had het idee dat de site niet goed genoeg was. Maar alles wat er in moest zitten zit er in..ook heb ik nog wat extra's toegevoegd. Ik was zelfs begonnen met een derde pagina waar ik na de deadline mee aan de slag ga. Ik vond het echt een leuke opdracht. Als we meer tijd hadden denk ik dat we nog meer hadden kunnen leren en doen maar ik ben op zich wel trots op het resultaat.
+  
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+  <img src="images/eind1.png" width="375px" alt="Pagina1">
+  
+  <img src="images/eind2.png" width="375px" alt="Pagina2">
 
 </details>
 
@@ -253,8 +255,10 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://www.youtube.com/watch?v=yCyD5AZegLk
+2. https://codepen.io/denic/pen/GRoOxbM?editors=0100
+3. https://codepen.io/robinrendle/pen/wvaxEMz
+4. https://www.w3schools.com/howto/howto_css_flip_card.asp
+5. https://codepen.io/SamSloot/pen/MWEYwOB
 
 </details>
